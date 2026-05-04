@@ -4,3 +4,8 @@ This is a multi-domain, human-annotated benchmark for span (word)-level misinfor
 - MisSpansIdentity for pinpointing false spans within sentences,
 - MisSpansType for categorising false spans by misinformation type,
 - MisSpansExplanation for providing rationales grounded in identified spans.
+
+
+#### Follow the API_LLM.ipynb to evaluate the API LLMs
+
+#### Follow the [LLamaFactory](https://github.com/hiyouga/LlamaFactory) to evaluate open-sourced LLMs.
